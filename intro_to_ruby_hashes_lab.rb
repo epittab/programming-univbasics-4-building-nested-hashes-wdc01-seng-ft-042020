@@ -23,7 +23,7 @@ def monopoly_with_third_tier
     :pieces => 4,
     :rent_in_dollars => {
       one_piece_owned: 25,
-      tier2: '',
+      two_pieces_owned: '',
       tier3: '',
       tier4: ''
     },
